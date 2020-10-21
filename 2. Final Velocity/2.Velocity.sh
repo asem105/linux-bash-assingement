@@ -20,6 +20,3 @@ v=`expr $u + $vv`
 
 echo "Final velocity = " $v
 
-read b
-
-fi

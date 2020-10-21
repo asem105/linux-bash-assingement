@@ -1,0 +1,5 @@
+ambrish@ambrish-PC:~/Desktop$ ./Odd_Even.sh
+Write a BASH shell script to find the factorial of a given number.
+Enter the No.
+5
+Factorial =  120
