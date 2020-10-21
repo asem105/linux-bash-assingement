@@ -1,4 +1,4 @@
-ambrish@ambrish-PC:~/Desktop$ ./Divi_by_three
+ambrish@ambrish-PC:~/Desktop$ ./Divi_by_three.sh
 Write a BASH shell script to check that a number that is taken as input is divisible by 3 or not.
 9
 Yes
