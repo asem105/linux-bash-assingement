@@ -2,7 +2,7 @@
 
 echo "Write a BASH shell script to calculate final velocity (v) of an object, where an initial velocity (u), acceleration (a) and time_duration (t) is given as an input. The formula that will be used is v = u + a*t."
 
-echo "Enter velocity (u)"
+echo "initial velocity (u)"
 
 read u
 
