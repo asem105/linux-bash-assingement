@@ -1,6 +1,6 @@
 #! /bin/bash
 
-echo "Write a BASH shell script to check that a number that is taken as input is divisible by 3 or not"
+echo "Write a BASH shell script to check that a number that is taken as input is divisible by 3 or not."
 
 read no
 
